@@ -1,3 +1,9 @@
+#IntelliJ files and package files
+
+.idea/
+*.iml
+target/
+
 # Compiled class file
 *.class
 
